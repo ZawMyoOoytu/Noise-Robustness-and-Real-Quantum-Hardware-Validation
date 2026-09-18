@@ -1,0 +1,35 @@
+{
+    "selected_features": [
+        "Trust_Score",
+        "Risk_Score",
+        "Interference",
+        "Resource_Load"
+    ],
+    "n_qubits": 4,
+    "angle_range": [
+        -3.141592653589793,
+        3.141592653589793
+    ],
+    "encoding": "Ry + Rz",
+    "entanglement": "linear_CNOT",
+    "cnot_edges": [
+        [
+            0,
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            2,
+            3
+        ]
+    ],
+    "circuit_depth": 5,
+    "gate_counts": {
+        "ry": 4,
+        "rz": 4,
+        "cx": 3
+    }
+}

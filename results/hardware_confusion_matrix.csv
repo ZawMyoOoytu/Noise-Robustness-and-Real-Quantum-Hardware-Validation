@@ -1,0 +1,3 @@
+model,TN,FP,FN,TP
+ideal,83,17,13,87
+ibm_hardware,84,16,13,87

@@ -1,0 +1,21 @@
+# Core quantum computing
+qiskit==2.5.2
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.49.0
+
+# Scientific computing
+numpy==2.4.6
+pandas==3.0.5
+scipy==1.17.1
+
+# Machine learning
+scikit-learn==1.9.1
+
+# Visualization
+matplotlib==3.10.1
+
+# Jupyter environment
+jupyterlab==4.0.11
+notebook==7.0.8
+ipykernel==6.28.0
+ipywidgets==8.0.4

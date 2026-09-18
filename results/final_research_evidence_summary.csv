@@ -1,0 +1,14 @@
+metric,value
+Ideal accuracy,0.85
+IBM hardware accuracy,0.855
+Observed accuracy difference,0.0050000000000000044
+Ideal F1,0.8529411764705882
+IBM hardware F1,0.8571428571428571
+Observed F1 difference,0.004201680672268893
+Mean probability shift,-0.0139990234375
+Mean absolute probability shift,0.0342724609375
+Prediction change rate,0.005
+Prediction changes,1.0
+Hardware samples,200.0
+Shots per sample,1024.0
+Total hardware shots,204800.0

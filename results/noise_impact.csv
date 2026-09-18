@@ -1,0 +1,5 @@
+noise_model,noise_strength,mean_probability_shift,mean_absolute_probability_shift,max_absolute_probability_shift,prediction_changes,prediction_change_rate
+bit_flip,0.01,-0.0035009765625,0.0364990234375,0.0791015625,0,0.0
+phase_flip,0.01,0.00158203125,0.004892578125,0.0224609375,0,0.0
+depolarizing,0.01,-0.00103515625,0.02720703125,0.0625,0,0.0
+readout,0.01,-0.00041015625,0.00634765625,0.0166015625,0,0.0
