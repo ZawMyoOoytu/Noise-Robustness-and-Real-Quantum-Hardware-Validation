@@ -1,0 +1,6 @@
+experiment_id,environment,backend,noise_type,noise_level,seed,shots,n_samples,n_qubits,vqc_layers,n_parameters,accuracy,precision,recall,f1,accuracy_gap,f1_gap,accuracy_relative_gap,f1_relative_gap
+E2,controlled_noisy_simulation,AerSimulator,pauli,0.001,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882,0.0,0.0,0.0,0.0
+E2,controlled_noisy_simulation,AerSimulator,pauli,0.005,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882,0.0,0.0,0.0,0.0
+E2,controlled_noisy_simulation,AerSimulator,pauli,0.01,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882,0.0,0.0,0.0,0.0
+E2,controlled_noisy_simulation,AerSimulator,pauli,0.02,42,1024,200,4,2,16,0.835,0.8130841121495327,0.87,0.8405797101449275,0.015000000000000013,0.012361466325660708,0.01764705882352943,0.014492753623188416
+E2,controlled_noisy_simulation,AerSimulator,pauli,0.05,42,1024,200,4,2,16,0.835,0.819047619047619,0.86,0.8390243902439024,0.015000000000000013,0.013916786226685796,0.01764705882352943,0.01631623212783852

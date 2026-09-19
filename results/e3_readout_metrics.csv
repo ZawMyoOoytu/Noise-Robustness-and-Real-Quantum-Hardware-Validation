@@ -1,0 +1,6 @@
+experiment_id,environment,backend,noise_type,noise_level,seed,shots,n_samples,n_qubits,vqc_layers,n_parameters,accuracy,precision,recall,f1
+E3,controlled_noisy_simulation,AerSimulator,readout,0.001,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882
+E3,controlled_noisy_simulation,AerSimulator,readout,0.005,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882
+E3,controlled_noisy_simulation,AerSimulator,readout,0.01,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882
+E3,controlled_noisy_simulation,AerSimulator,readout,0.02,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882
+E3,controlled_noisy_simulation,AerSimulator,readout,0.05,42,1024,200,4,2,16,0.85,0.8365384615384616,0.87,0.8529411764705882
